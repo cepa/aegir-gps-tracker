@@ -78,7 +78,11 @@ The device was initially intended to send data to a system I had created earlier
 ### Case
 I bought it before designing the PCB board, which I designed to fit inside. The enclosure is made of polycarbonate G 214C, and the transparent lid made it easier to mount the display.
 
-### PCB
+### Circuit Schematic
+![Circuit Schematic](/photos/circuit.png)
+
+### PCB Board
+![PCB Board](/photos/pcb.png)
 I quickly designed the project in EasyEDA because there were ready-made public components available in the cloud, which significantly sped up the work. I sent the PCB design to JLCPCB for production. Of course, there were some errors, but a few trace cuts and jumpers solved the problem. The layout of the components was arranged to fit everything, which also caused some issues, such as the absence of a power switch or the SD card slot being hard to access.
 
 ## Youtube
