@@ -94,13 +94,15 @@ Being a fan of bread boards I assembled the first prototype before having the fi
 
 ## Expedition
 
-The motivation to complete the project was the plan for a maritime expedition to Svalbard.
+The motivation to complete the project was the plan for a sailing expedition to Svalbard.
 
 I installed the device above the yacht's entrance, where I had access to 12V power. The three external antennas for LTE, Iridium, and GPS were simply placed nearby. On board, we also had a Garmin InReach satellite phone and an Iridium Edge terminal, so we had something to compare the project's performance against.
 
 We set sail from Tromsø in northern Norway and, due to a storm in the Barents Sea, we navigated through the fjords to the northeast. When a weather window appeared, we headed north toward Bear Island and further to Svalbard. To the south, the first base in Svalbard is the Polish Polar Station in Hornsund, which we visited thanks to the kindness of the researchers. Continuing north, we reached Prince Charles Land and the highest point of the expedition at 78°44'N, then we sailed down to Isfjord and into the port of Longyearbyen.
 
 ![Map](/photos/4.jpg)
+
+[Full Track on the Map](https://app.gpxlab.net/share/5b85c2e5-82e0-42d7-afcc-8595f449a423)
 
 As expected, the tracker sent data to the server every 10 seconds in the coastal waters, meaning that the entire Norwegian fjords had LTE coverage. The signal was lost about 20 nautical miles (37 km) from the Norwegian coast. In the ocean in polar areas, the only means of communication is Iridium, and here we had satellites almost constantly overhead, so the device sent positions without major problems every hour. LTE coverage returned around Isfjord, where Longyearbyen, the capital of Svalbard and the largest settlement on the island of Svalbard, is located.
 
