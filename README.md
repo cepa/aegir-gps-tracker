@@ -92,6 +92,20 @@ I quickly designed the project in EasyEDA because there were ready-made public c
 Being a fan of bread boards I assembled the first prototype before having the final PCB to test all components. Next designed the PCB and assembled the final device. There were some stupid mistakes but easy to fix by cutting traces and adding some wires.
 
 
+## Expedition
+
+The motivation to complete the project was the plan for a maritime expedition to Svalbard.
+
+I installed the device above the yacht's entrance, where I had access to 12V power. The three external antennas for LTE, Iridium, and GPS were simply placed nearby. On board, we also had a Garmin InReach satellite phone and an Iridium Edge terminal, so we had something to compare the project's performance against.
+
+We set sail from Tromsø in northern Norway and, due to a storm in the Barents Sea, we navigated through the fjords to the northeast. When a weather window appeared, we headed north toward Bear Island and further to Svalbard. To the south, the first base in Svalbard is the Polish Polar Station in Hornsund, which we visited thanks to the kindness of the researchers. Continuing north, we reached Prince Charles Land and the highest point of the expedition at 78°44'N, then we sailed down to Isfjord and into the port of Longyearbyen.
+
+![Map](/photos/4.jpg)
+
+As expected, the tracker sent data to the server every 10 seconds in the coastal waters, meaning that the entire Norwegian fjords had LTE coverage. The signal was lost about 20 nautical miles (37 km) from the Norwegian coast. In the ocean in polar areas, the only means of communication is Iridium, and here we had satellites almost constantly overhead, so the device sent positions without major problems every hour. LTE coverage returned around Isfjord, where Longyearbyen, the capital of Svalbard and the largest settlement on the island of Svalbard, is located.
+
+The project essentially concludes with this expedition. Further development of this device doesn't make much sense due to the exorbitant costs of Iridium transmission through RockBlock, namely £13 for a monthly line rental and £14 for the cheapest package of 100 credits, which equals 5 kB (!?). In comparison, a subscription for Garmin InReach is cheaper, as it sends points every 10 minutes. For me, this was the most challenging electronic project I have completed so far. It forced me to learn both STM and FreeRTOS, so in that regard, it was worth it, and there's the eternal satisfaction that it actually worked in the Arctic :)
+
 ## Youtube
 One of our mates is a youtuber and he had managed to capture some footage while sailing the arctic waters.
 - [Ep1. Rejs na Arktykę](https://www.youtube.com/watch?v=Z5egoxSh6OI)
