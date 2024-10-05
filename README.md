@@ -83,10 +83,12 @@ I bought it before designing the PCB board, which I designed to fit inside. The 
 
 ## PCB Board
 ![PCB Board](/photos/pcb.png)
+
 I quickly designed the project in EasyEDA because there were ready-made public components available in the cloud, which significantly sped up the work. I sent the PCB design to JLCPCB for production. Of course, there were some errors, but a few trace cuts and jumpers solved the problem. The layout of the components was arranged to fit everything, which also caused some issues, such as the absence of a power switch or the SD card slot being hard to access.
 
 ## Prototype
 ![Prototype](/photos/3.jpg)
+
 Being a fan of bread boards I assembled the first prototype before having the final PCB to test all components. Next designed the PCB and assembled the final device. There were some stupid mistakes but easy to fix by cutting traces and adding some wires.
 
 
