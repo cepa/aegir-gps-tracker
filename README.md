@@ -108,13 +108,23 @@ As expected, the tracker sent data to the server every 10 seconds in the coastal
 
 The project essentially concludes with this expedition. Further development of this device doesn't make much sense due to the exorbitant costs of Iridium transmission through RockBlock, namely £13 for a monthly line rental and £14 for the cheapest package of 100 credits, which equals 5 kB (!?). In comparison, a subscription for Garmin InReach is cheaper, as it sends points every 10 minutes. For me, this was the most challenging electronic project I have completed so far. It forced me to learn both STM and FreeRTOS, so in that regard, it was worth it, and there's the eternal satisfaction that it actually worked in the Arctic :)
 
+## Photos
+![Photo](/photos/5.jpg)
+![Photo](/photos/6.jpg)
+![Photo](/photos/7.jpg)
+![Photo](/photos/8.jpg)
+![Photo](/photos/9.jpg)
+![Photo](/photos/10.jpg)
+![Photo](/photos/11.jpg)
+
+
 ## Media
 One of our mates is a youtuber and he had managed to capture some footage while sailing the arctic waters.
 - [Ep1. Rejs na Arktykę](https://www.youtube.com/watch?v=Z5egoxSh6OI)
 - [Ep2. Miejsca bez Powrotu w Arktyce](https://www.youtube.com/watch?v=qfbvTMd-tyc)
 - [Ep3. Sztorm na Krańcu Świata](https://www.youtube.com/watch?v=2DE-GZrynNQ)
 
-I had a pleasure to talk about the project on (Elektroda.pl)[https://elektroda.pl] podcast.
+I had a pleasure to talk about the project for [Elektroda.pl](https://elektroda.pl) podcast.
 - [GPS Iridium Arktyka - podcast #29](https://www.youtube.com/watch?v=6I0lGnK7-Hg)
 
 ## Yacht & Crew
