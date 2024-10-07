@@ -22,7 +22,7 @@ The ultimate motivator for building this project was the opportunity to join the
 
 ### Requirements
 - **must work everywhere**!
-- while in range of "cilization" send data every 10s over LTE
+- while in range of "civilization" send data every 10s over LTE
 - when in remote location send data every 1h over Iridium
 - save datapoints to the SD card
 - show live position, speed, course and other parameters
